@@ -1,16 +1,30 @@
-## Hi there 👋
-
+👋 ¡Hola! Soy Bautista
 <!--
-**bautiexposito/bautiexposito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Bienvenid@ a mi perfil de GitHub! 🌟
 
-Here are some ideas to get you started:
+🛠️ Sobre mí
+💻 Me apasiona desarrollar aplicaciones web, juegos y proyectos innovadores.
+🎓 Actualmente estoy cursando la Tecnicatura Universitaria en Programación (UTN).
+💡 Creo firmemente en el poder del código para resolver problemas y crear experiencias únicas.
+🌱 En este momento, estoy explorando Spring Security y descubriendo otras tecnologías, como React y Docker, para ampliar mis habilidades.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🚀 Mis habilidades
+Lenguajes de programación: Java, Python, JavaScript.
+Frameworks y tecnologías: Spring Boot, Mockito, JWT, Hibernate.
+Bases de datos: MySQL.
+Otras herramientas: Git, Postman, Visual Studio Code, IntelliJ IDEA.
+
+📂 Mis proyectos destacados
+🛠️ [Customer Control Panel](https://github.com/bautiexposito/customer-control-panel): Panel de control fullstack para gestionar clientes, utilizando Java, Spring Boot, JavaScript y MySQL.
+💳 [Sistema Bancario](https://github.com/tu-usuario/customer-control-panel): Proyecto backend para gestionar clientes y transferencias, utilizando Java, Spring Boot, y MySQL.
+🦋 Otros proyectos en desarrollo...
+
+🎵 Algo más sobre mí
+🛫 Soy Piloto Privado de Avión (PPA).
+🎧 Amante de la música urbana, escribo canciones y me encanta interpretar letras.
+💪 Me gusta mucho entrenar en el gimnasio.
+
+🌐 Conéctate conmigo
+💼 [LinkedIn]([https://linkedin.com/in/tu-usuario](https://www.linkedin.com/in/bautistaexposito/)
+📧 Email: bautistaexposito@outlook.com
 -->
