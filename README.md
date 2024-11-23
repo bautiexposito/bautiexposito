@@ -25,5 +25,5 @@ Otras herramientas: Git, Postman, Visual Studio Code, IntelliJ IDEA.
 💪 Me gusta mucho entrenar en el gimnasio.  
 
 🌐 Conéctate conmigo  
-💼 LinkedIn([https://linkedin.com/in/tu-usuario](https://www.linkedin.com/in/bautistaexposito/)  
+💼 [LinkedIn](https://www.linkedin.com/in/bautistaexposito/)  
 📧 Email: bautistaexposito@outlook.com  
