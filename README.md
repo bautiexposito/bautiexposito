@@ -1,5 +1,5 @@
 👋 ¡Hola! Soy Bautista
-<!--
+
 ¡Bienvenid@ a mi perfil de GitHub! 🌟
 
 🛠️ Sobre mí
@@ -27,4 +27,3 @@ Otras herramientas: Git, Postman, Visual Studio Code, IntelliJ IDEA.
 🌐 Conéctate conmigo
 💼 [LinkedIn]([https://linkedin.com/in/tu-usuario](https://www.linkedin.com/in/bautistaexposito/)
 📧 Email: bautistaexposito@outlook.com
--->
