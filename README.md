@@ -26,4 +26,4 @@ Otras herramientas: Git, Postman, Visual Studio Code, IntelliJ IDEA.
 
 🌐 Conéctate conmigo  
 💼 [LinkedIn](https://www.linkedin.com/in/bautistaexposito/)  
-📧 Email: bautistaexposito@outlook.com  
+📧 bautistaexposito@outlook.com  
