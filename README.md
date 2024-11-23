@@ -16,7 +16,7 @@ Otras herramientas: Git, Postman, Visual Studio Code, IntelliJ IDEA.
 
 📂 Mis proyectos destacados  
 🛠️ [Customer Control Panel](https://github.com/bautiexposito/customer-control-panel): Panel de control fullstack para gestionar clientes, utilizando Java, Spring Boot, JavaScript y MySQL.
-💳 [Sistema Bancario](https://github.com/tu-usuario/customer-control-panel): Proyecto backend para gestionar clientes y transferencias, utilizando Java, Spring Boot, y MySQL.
+💳 [Sistema Bancario](https://github.com/tu-usuario/customer-control-panel): Proyecto backend para gestionar clientes y transferencias, utilizando Java, Spring Boot, y MySQL.  
 🦋 Otros proyectos en desarrollo...
 
 🎵 Algo más sobre mí
