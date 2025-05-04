@@ -3,15 +3,15 @@
 ## ¡Bienvenid@ a mi perfil de GitHub! 🌟
 
 ### 💻 Sobre mí  
-- Me apasiona desarrollar aplicaciones web, juegos y proyectos innovadores.  
-- Actualmente estoy cursando la Tecnicatura Universitaria en Programación (UTN).  
-- En este momento, estoy explorando Spring Security y descubriendo otras tecnologías, como React y Docker, para ampliar mis habilidades.  
+- Soy Técnico Universitario en Programación (UTN).
+- Trabajo como desarrollador full stack en [Eject Project](https://ejectproject.com/).
+- También brindo soporte técnico en [Hosting Bahia](https://hostingbahia.com.ar/).
 
 ### 🛠️ Mis habilidades  
-- Lenguajes de programación: Java, Python, JavaScript.  
-- Frameworks y tecnologías: Spring Boot, Mockito, JWT, Hibernate.  
-- Bases de datos: MySQL.  
-- Otras herramientas: Git, Postman, Visual Studio Code, IntelliJ IDEA.  
+- Lenguajes de programación: PHP, JavaScript.
+- Frameworks y tecnologías: CodeIgniter, Jquery, Bootstrap.
+- Bases de datos: MySQL.
+- Otras herramientas: Git, Postman, Visual Studio Code.
 
 ### 📂 Mis proyectos destacados  
 - [Customer Control Panel](https://github.com/bautiexposito/customer-control-panel): Panel de control fullstack para gestionar clientes, utilizando Java, Spring Boot, JavaScript y MySQL.  
