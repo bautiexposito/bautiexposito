@@ -5,7 +5,8 @@
 ### 💻 Sobre mí  
 - Soy Técnico Universitario en Programación (UTN).
 - Trabajo como desarrollador full stack en [Eject Project](https://ejectproject.com/).
-- También brindo soporte técnico en [Hosting Bahia](https://hostingbahia.com.ar/).
+- Brindo soporte técnico en [Hosting Bahia](https://hostingbahia.com.ar/).
+- También soy diseñador web freelance en [Exposito Dynamics](https://expositodynamics.com.ar/).
 
 ### 🛠️ Mis habilidades  
 - Lenguajes de programación: PHP, JavaScript.
