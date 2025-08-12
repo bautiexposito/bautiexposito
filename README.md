@@ -22,9 +22,9 @@
 - Otros proyectos en desarrollo...
 
 ### 🎵 Algo más sobre mí  
-🛫 Soy Piloto Privado de Avión (PPA).
-🎧 Amante de la música urbana, compongo y grabo canciones.
-💪 El gimnasio es parte de mi estilo de vida.
+🛫 Soy Piloto Privado de Avión (PPA).  
+🎧 Amante de la música urbana, compongo y grabo canciones.  
+💪 El gimnasio es parte de mi estilo de vida.  
 
 ### 🌐 Conéctate conmigo
 - [LinkedIn](https://www.linkedin.com/in/bautistaexposito/)
